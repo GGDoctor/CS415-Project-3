@@ -107,6 +107,12 @@
 		<Unit filename="C:/Users/Jacob/Documents/GitHub/CS415-Project-3/maze.bmp">
 			<Option target="CS415_Project_3"/>
 		</Unit>
+		<Unit filename="C:/Users/Jacob/Documents/GitHub/CS415-Project-3/maze2.bmp">
+			<Option target="CS415_Project_3"/>
+		</Unit>
+		<Unit filename="C:/Users/Jacob/Documents/GitHub/CS415-Project-3/maze3.bmp">
+			<Option target="CS415_Project_3"/>
+		</Unit>
 		<Unit filename="C:/Users/Jacob/Documents/GitHub/CS415-Project-3/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
